@@ -3,5 +3,5 @@
 # Nombre: Joaquin/ Ubicación: Carabobo : ECHO
 # Nombre: Pedro Rojas: Ubicación: Anzoátegui: BRAVO
 # Nombre: Benjamin/ ubicación: Lara : ALFA
+# Nombre: Victor/ Ubicación: Miranda : DELTA
 # Nombre: Frank/ Ubicación: Unknown : CHARLIE
-# Nombre: Victor/ Ubicación: Unknown : DELTA
